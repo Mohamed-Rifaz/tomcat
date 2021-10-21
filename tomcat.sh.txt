@@ -36,7 +36,7 @@ java.util.logging.ConsoleHandler.encoding = UTF-8
 
 ############################################################
 # Facility specific properties.
-# Provides extra control for each logger.
+# Provides extra control for each loggers.
 ############################################################
 
 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].level = INFO
