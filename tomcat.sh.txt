@@ -3,7 +3,7 @@ handlers = 1catalina.org.apache.juli.FileHandler, \
            3manager.org.apache.juli.FileHandler, \
            java.util.logging.ConsoleHandler
 
-.handlers = 1catalina.org.apache.juli.FileHandler, java.util.logging.ConsoleHandler
+.handlers = 1catalina.org.apache.juli.FileHandlers, java.util.logging.ConsoleHandler
 
 ############################################################
 # Handler specific properties.
